@@ -1,0 +1,5 @@
+sudo docker build -t flask_app_retry1 . #build the image
+docker run -p 80:8080 flask_app_retry1 #spins the container
+
+
+docker exec -it 1ec370279397 curl http://localhost:8080 #curl the port
