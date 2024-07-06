@@ -1,0 +1,18 @@
+	
+Docker
+Kubernetes
+Containerization Platform
+Docker is a containerization platform that allows you to package applications and their dependencies into self-contained units called containers.
+Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications.
+Simplified Deployment
+Docker simplifies the process of creating, managing, and deploying containers. It's particularly useful for data engineers for building and running data processing workloads in isolated environments.
+Kubernetes is designed to manage complex, multi-container applications. It's ideal for orchestrating intricate data engineering workflows, scaling workloads, and ensuring high availability.
+Efficiency
+Docker containers are lightweight and resource-efficient compared to traditional virtual machines, making them suitable for processing large datasets efficiently.
+Kubernetes efficiently allocates resources to containers, enabling data engineers to scale data processing tasks up or down as needed.
+Portability
+Docker containers are highly portable and can run consistently across various environments, ensuring that your data engineering work behaves consistently.
+Kubernetes provides load balancing and service discovery, making it suitable for distributed data engineering workloads.
+Common Use Case
+Data engineers often use Docker to create containerized environments for data processing tools and applications, ensuring consistency and ease of deployment.
+Kubernetes is often used in data engineering to manage and orchestrate multi-container data processing pipelines, ensuring reliability and scalability.
